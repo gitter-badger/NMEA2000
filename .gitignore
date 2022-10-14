@@ -45,3 +45,7 @@ Temporary Items
 # CMake
 build
 tags
+
+# Added by Matthias
+docu/html/
+docu/tmp/
