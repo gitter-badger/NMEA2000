@@ -1,5 +1,7 @@
 = NMEA2000 library for C++ =
 
+image:https://badges.gitter.im/docu-for-NMEA2000-C-lib/community.svg[link="https://gitter.im/docu-for-NMEA2000-C-lib/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
+
 Object oriented NMEA2000 library for Teensy, ESP, Arduino, MBED and Rasberry type Boards.
 These board types has been tested, but library can be used also in other systems by writing
 compatible CAN driver and wrapper for other hw specific functions.
